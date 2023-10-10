@@ -1,2 +1,2 @@
 # conflits
-branch1
+branch2
